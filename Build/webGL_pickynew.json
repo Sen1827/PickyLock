@@ -1,0 +1,16 @@
+{
+"companyName": "MotionMiracles",
+"productName": "PickyLocks",
+"productVersion": "0.1",
+"dataUrl": "webGL_pickynew.data.unityweb",
+"wasmCodeUrl": "webGL_pickynew.wasm.code.unityweb",
+"wasmFrameworkUrl": "webGL_pickynew.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.13f1"
+}
